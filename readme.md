@@ -1,7 +1,9 @@
 # CAD/BIM Scripts
 (Insert photo)
 
-About section
+About section.
+
+Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these ArcPy scripts is to enhance your projects and workflows. 
 
 ## Tools
 - Tool 1 link - Description
