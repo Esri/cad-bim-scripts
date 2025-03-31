@@ -8,7 +8,7 @@ Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these 
 ## Tools
 - Tool 1 link - Description
 - [Automate CAD and BIM Publishing using Scene Layer Packages](Tools/Tool2)- Description
-- [Schedule, Download, and Update Files from BIM 360](Tools/Schedule,Download,andUpdateFilesfromBIM360) - This script can be scheduled to download updated BIM 360 files.
+- [Schedule, Download, and Update Files from BIM 360](Tools/Schedule,%20Download,%20and%20Update%20Files%20from%20BIM%20360) - This script can be scheduled to download updated BIM 360 files.
 
 ## Instructions
 1. Step
