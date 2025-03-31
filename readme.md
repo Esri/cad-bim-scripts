@@ -7,8 +7,8 @@ Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these 
 
 ## Tools
 - Tool 1 link - Description
-- Automate CAD and BIM Publishing using Scene Layer Packages link - Description
-- Schedule, Download, and Update Files from BIM 360 link - This tool uses Python and Flask to set up a Python script that can be scheduled to download updated BIM 360 files.
+- [Automate CAD and BIM Publishing using Scene Layer Packages](Tools/Tool2)- Description
+- [Schedule, Download, and Update Files from BIM 360](Tools/Tool3) - This tool can be scheduled to download updated BIM 360 files.
 
 ## Instructions
 1. Step
