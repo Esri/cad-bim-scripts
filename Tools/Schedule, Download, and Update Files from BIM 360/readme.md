@@ -1,4 +1,4 @@
-# Using Python to Schedule Download and Update Files From BIM 360 
+# Using Python to Schedule, Download, and Update Files From BIM 360 
 
 During projects, computer-aided design (CAD) and building information modeling (BIM) data may undergo frequent changes by civil engineers, architects, and CAD technicians. These changes create a need to keep other project team members informed for downstream decision-making. For example, project and asset managers need timely and centralized access to up-to-date data for tracking progress and resolving issues. By reducing the time spent integrating CAD and BIM content into 3D web scenes, GIS teams can better enable stakeholders to mitigate risks on projects.
 
