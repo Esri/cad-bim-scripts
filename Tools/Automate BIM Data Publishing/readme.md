@@ -8,7 +8,7 @@ After following the steps in the Jupyter Notebook, you can automate the sharing 
 
 #### What you need
 
-- The [ArcGIS Notebook](Tools/Automate%20BIM%20Data%20Publishing/Blog_Automation_BIM_To_BSLPK_1.ipynb) included with this post.
+- The [ArcGIS Notebook](Blog_Automation_BIM_To_BSLPK_1.ipynb) included with this post.
 - ArcGIS Pro 3.4 or later.
 
 
