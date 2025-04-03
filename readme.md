@@ -1,8 +1,6 @@
 # CAD/BIM Scripts
 (Insert photo)
 
-About section.
-
 Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these ArcPy scripts is to enhance your projects and workflows. 
 
 ## Tools
@@ -17,13 +15,15 @@ Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these 
 3. Step
 
 ## Requirements
-- 1
-- 2
+- Microsoft Visual Studio Code
+- Python
+- Jupyter Notebook
+- ArcGIS Pro version ?
+- AutoCAD or Civil 3D version?
 
 ## Resources
-- Doc link
-- Doc link
-- Doc link
+- Explore [BIM documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/revit/what-is-bim-data-.htm)
+- Explore [CAD documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/cad/what-is-cad-data.htm)
 
 
 ## Issues
