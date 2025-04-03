@@ -32,14 +32,18 @@ Below you will find a series of tools that automate common CAD/BIM workflows.
 
 
 ## Issues
-Find a bug or want to request a new feature? Please let us know by submitting an issue. The scripts and notebooks are provided as is and there is no official support.
+Find a bug or want to request a new feature? Please let us know by submitting an issue. 
+
+The tools are provided as is and there is no official support.
 
 ## Contributing
-Esri welcomes contributions to our open source projects on GitHub. Please see our guidelines for contributing. We do not currently accept new PRs for full features (e.g. a new tool or a significant change to the tools).
+Esri welcomes contributions to our open source projects on GitHub. Please see our [guidelines for contributing](https://github.com/esri/contributing). 
 
 We encourage you to submit issues for:
 - Enhancement requests for new tools.
 - Bugs you find while using the tools.
+
+We do not currently accept new PRs for full features (e.g. a new tool or a significant change to the tools).
 
 ## Licensing 
 Copyright 2025 Esri
