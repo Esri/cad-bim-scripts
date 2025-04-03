@@ -1,7 +1,9 @@
 # CAD/BIM Scripts
-(Insert photo)
+![image](https://github.com/user-attachments/assets/6f89496d-4220-4fe0-8014-76010bca4630)
+
 
 Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these ArcPy scripts is to enhance your projects and workflows through automation. 
+Below you will find a series of tools that demonstrate automate common CAD/BIM workflows.
 
 ## Tools
 - [Automate CAD and BIM Publishing using Scene Layer Packages](Tools/Automate%20CAD%20and%20BIM%20Publishing%20using%20Scene%20Layer%20Packages)
