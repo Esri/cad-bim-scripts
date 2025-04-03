@@ -3,7 +3,7 @@
 
 
 Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these ArcPy scripts and Jupyter notebooks is to enhance your projects and workflows through automation. 
-Below you will find a series of tools that demonstrate automate common CAD/BIM workflows.
+Below you will find a series of tools that automate common CAD/BIM workflows.
 
 ## Tools
 #### Scripts
