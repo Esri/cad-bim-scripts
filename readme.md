@@ -2,33 +2,37 @@
 ![image](https://github.com/user-attachments/assets/6f89496d-4220-4fe0-8014-76010bca4630)
 
 
-Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these ArcPy scripts is to enhance your projects and workflows through automation. 
+Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these ArcPy scripts and Jupyter notebooks is to enhance your projects and workflows through automation. 
 Below you will find a series of tools that demonstrate automate common CAD/BIM workflows.
 
 ## Tools
+#### Scripts
 - [Automate CAD and BIM Publishing using Scene Layer Packages](Tools/Automate%20CAD%20and%20BIM%20Publishing%20using%20Scene%20Layer%20Packages)
-- [Automating BIM Data Publishing](Tools/Automate%20BIM%20Data%20Publishing) 
 - [Create, Share, and Update Scene Layer Packages](Tools/Create,%20Share,%20and%20Update%20Scene%20Layer%20Packages) 
+#### Notebooks
+- [Automating BIM Data Publishing](Tools/Automate%20BIM%20Data%20Publishing)
 - [Schedule, Download, and Update Files from BIM 360](Tools/Schedule,%20Download,%20and%20Update%20Files%20from%20BIM%20360) 
 
+## Requirements
+- ArcGIS Pro version ?+
+- AutoCAD or Civil 3D version ?+
+- Microsoft Visual Studio Code
+- ArcGIS API for Python 2.3.1?+
+- Python 3.9.x? to 3.11.x?? is required to use the ArcGIS API for Python 2.3.1.
+- Jupyter Notebook
+  
 ## Instructions
 1. Download the ArcPy script or Jupyter notebook for your desired tool. 
 2. Adjust the code for your data.
 
-## Requirements
-- ArcGIS Pro version ?
-- AutoCAD or Civil 3D version ? 
-- Microsoft Visual Studio Code
-- Python or Jupyter Notebook
-
-
 ## Resources
 - [BIM documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/revit/what-is-bim-data-.htm)
 - [CAD documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/cad/what-is-cad-data.htm)
+- [ArcGIS API for Python](https://developers.arcgis.com/python/latest/)
 
 
 ## Issues
-Find a bug or want to request a new feature? Please let us know by submitting an issue.
+Find a bug or want to request a new feature? Please let us know by submitting an issue. The scripts and notebooks are provided as is and there is no official support.
 
 ## Contributing
 Esri welcomes contributions to our open source projects on GitHub. Please see our guidelines for contributing.
