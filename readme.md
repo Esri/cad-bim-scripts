@@ -1,7 +1,7 @@
 # CAD/BIM Scripts
 (Insert photo)
 
-Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these ArcPy scripts is to enhance your projects and workflows. 
+Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these ArcPy scripts is to enhance your projects and workflows through automation. 
 
 ## Tools
 - [Automate CAD and BIM Publishing using Scene Layer Packages](Tools/Automate%20CAD%20and%20BIM%20Publishing%20using%20Scene%20Layer%20Packages)
@@ -10,9 +10,8 @@ Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these 
 - [Schedule, Download, and Update Files from BIM 360](Tools/Schedule,%20Download,%20and%20Update%20Files%20from%20BIM%20360) 
 
 ## Instructions
-1. Step
-2. Step
-3. Step
+1. Download the ArcPy script or Jupyter notebook for your desired tool. 
+2. Adjust the code for your data.
 
 ## Requirements
 - Microsoft Visual Studio Code
