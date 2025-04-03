@@ -22,8 +22,8 @@ Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these 
 - AutoCAD or Civil 3D version?
 
 ## Resources
-- Explore [BIM documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/revit/what-is-bim-data-.htm)
-- Explore [CAD documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/cad/what-is-cad-data.htm)
+- [BIM documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/revit/what-is-bim-data-.htm)
+- [CAD documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/cad/what-is-cad-data.htm)
 
 
 ## Issues
