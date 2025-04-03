@@ -14,11 +14,11 @@ Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these 
 2. Adjust the code for your data.
 
 ## Requirements
-- Microsoft Visual Studio Code
-- Python
-- Jupyter Notebook
 - ArcGIS Pro version ?
-- AutoCAD or Civil 3D version?
+- AutoCAD or Civil 3D version ? 
+- Microsoft Visual Studio Code
+- Python or Jupyter Notebook
+
 
 ## Resources
 - [BIM documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/revit/what-is-bim-data-.htm)
