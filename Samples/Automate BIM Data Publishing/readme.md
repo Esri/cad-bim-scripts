@@ -1,8 +1,12 @@
 # Automate BIM Data Publishing
 
+... photo...??? 
 This sample WHAT DOES IT DO
 
 After following the steps in the Jupyter Notebook, you can automate the sharing of building scene layers to ArcGIS Online, minimizing production time with the most up-to-date project data required by the stakeholder.
+
+## Use case
+U
 
 ### Requirements
 
