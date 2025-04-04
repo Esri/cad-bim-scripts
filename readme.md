@@ -5,9 +5,9 @@
 Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. Below you will find a series of samples that automate common CAD/BIM workflows. This project's goal is to inspire you to develop your own customizations.
 
 ## Samples
-- [Automate CAD and BIM Publishing using Scene Layer Packages](Samples/Automate%20CAD%20and%20BIM%20Publishing%20using%20Scene%20Layer%20Packages)
-- [Create, Share, and Update Scene Layer Packages](Samples/Create,%20Share,%20and%20Update%20Scene%20Layer%20Packages) 
-- [Create and Update Building SLPK](Samples/Create%20and%20Update%20Building%20SLPK)
+- [Share and Update Building SLPK](Samples/Share%20and%20Update%20Building%20SLPK)
+- [Share and Update SLPK from Layer](Samples/Share%20and%20Update%20SLPK%20from%20Layer)
+- [Share and Update SLPKs from Folders](Samples/Share%20and%20Update%20SLPKs%20from%20Folders) 
 - [Update ACC Files](Samples/Update%20ACC%20Files) 
 
 ## Requirements
