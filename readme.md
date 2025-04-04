@@ -12,19 +12,21 @@ Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. Below you will f
 
 ## Requirements
 - ArcGIS Pro version 3.4+
+- Each sample may have additional requirements. 
 
 ## Instructions
 1. Download your desired sample. 
-2. Adjust the code for your data.
+2. Adjust the code as needed.
 
 ## Resources
 - [BIM documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/revit/what-is-bim-data-.htm)
 - [CAD documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/cad/what-is-cad-data.htm)
 - [ArcGIS API for Python](https://developers.arcgis.com/python/latest/)
+- [ArcGIS Pro ArcPy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm)
 
 
 ## Issues
-Find a bug or want to request a new feature? Please let us know by submitting an issue. 
+Find a bug or want to request a new sample? Please let us know by submitting an issue. 
 
 The samples are provided as is and there is no official support.
 
