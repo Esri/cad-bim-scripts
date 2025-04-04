@@ -23,6 +23,7 @@ Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. Below you will f
 - [CAD documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/cad/what-is-cad-data.htm)
 - [ArcGIS API for Python](https://developers.arcgis.com/python/latest/)
 - [ArcGIS Pro ArcPy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm)
+- [ArcGIS For AutoCAD API Samples](https://github.com/Esri/ArcGIS-for-AutoCAD-API-Samples)
 
 
 ## Issues
