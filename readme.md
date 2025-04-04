@@ -14,13 +14,8 @@ Below you will find a series of tools that automate common CAD/BIM workflows.
 - [Schedule, Download, and Update Files from BIM 360](Tools/Schedule,%20Download,%20and%20Update%20Files%20from%20BIM%20360) 
 
 ## Requirements
-- ArcGIS Pro version ?+
-- AutoCAD or Civil 3D version ?+
-- Microsoft Visual Studio Code
-- ArcGIS API for Python 2.3.1?+
-- Python 3.9.x? to 3.11.x?? is required to use the ArcGIS API for Python 2.3.1.
-- Jupyter Notebook
-  
+- ArcGIS Pro version 3.4+
+
 ## Instructions
 1. Download the ArcPy script or Jupyter notebook for your desired tool. 
 2. Adjust the code for your data.
