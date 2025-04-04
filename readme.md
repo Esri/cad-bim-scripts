@@ -8,7 +8,7 @@ Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. Below you will f
 - [Automate CAD and BIM Publishing using Scene Layer Packages](Samples/Automate%20CAD%20and%20BIM%20Publishing%20using%20Scene%20Layer%20Packages)
 - [Create, Share, and Update Scene Layer Packages](Samples/Create,%20Share,%20and%20Update%20Scene%20Layer%20Packages) 
 - [Automating BIM Data Publishing](Samples/Automate%20BIM%20Data%20Publishing)
-- [Schedule, Download, and Update Files from BIM 360](Samples/Schedule,%20Download,%20and%20Update%20Files%20from%20BIM%20360) 
+- [Updating ACC Files](Samples/Updating%ACC%20Files) 
 
 ## Requirements
 - ArcGIS Pro version 3.4+
