@@ -1,23 +1,20 @@
-# CAD/BIM Scripts
+# ArcGIS Pro CAD/BIM Sample Scripts
+
 ![image](https://github.com/user-attachments/assets/6f89496d-4220-4fe0-8014-76010bca4630)
 
+Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. Below you will find a series of samples that automate common CAD/BIM workflows.
 
-Welcome to our collection of tools for CAD/BIM in ArcGIS Pro. The goal of these ArcPy scripts and Jupyter notebooks is to enhance your projects and workflows through automation. 
-Below you will find a series of tools that automate common CAD/BIM workflows.
-
-## Tools
-#### Scripts
-- [Automate CAD and BIM Publishing using Scene Layer Packages](Tools/Automate%20CAD%20and%20BIM%20Publishing%20using%20Scene%20Layer%20Packages)
-- [Create, Share, and Update Scene Layer Packages](Tools/Create,%20Share,%20and%20Update%20Scene%20Layer%20Packages) 
-#### Notebooks
-- [Automating BIM Data Publishing](Tools/Automate%20BIM%20Data%20Publishing)
-- [Schedule, Download, and Update Files from BIM 360](Tools/Schedule,%20Download,%20and%20Update%20Files%20from%20BIM%20360) 
+## Samples
+- [Automate CAD and BIM Publishing using Scene Layer Packages](Samples/Automate%20CAD%20and%20BIM%20Publishing%20using%20Scene%20Layer%20Packages)
+- [Create, Share, and Update Scene Layer Packages](Samples/Create,%20Share,%20and%20Update%20Scene%20Layer%20Packages) 
+- [Automating BIM Data Publishing](Samples/Automate%20BIM%20Data%20Publishing)
+- [Schedule, Download, and Update Files from BIM 360](Samples/Schedule,%20Download,%20and%20Update%20Files%20from%20BIM%20360) 
 
 ## Requirements
 - ArcGIS Pro version 3.4+
 
 ## Instructions
-1. Download the ArcPy script or Jupyter notebook for your desired tool. 
+1. Download your desired sample. 
 2. Adjust the code for your data.
 
 ## Resources
@@ -29,16 +26,16 @@ Below you will find a series of tools that automate common CAD/BIM workflows.
 ## Issues
 Find a bug or want to request a new feature? Please let us know by submitting an issue. 
 
-The tools are provided as is and there is no official support.
+The samples are provided as is and there is no official support.
 
 ## Contributing
 Esri welcomes contributions to our open source projects on GitHub. Please see our [guidelines for contributing](https://github.com/esri/contributing). 
 
 We encourage you to submit issues for:
-- Enhancement requests for new tools.
-- Bugs you find while using the tools.
+- Enhancement requests for new samples.
+- Bugs you find while using the samples.
 
-We do not currently accept new PRs for full features (e.g. a new tool or a significant change to the tools).
+We do not currently accept new PRs for full features (e.g. a new sample or a significant change to the samples).
 
 ## Licensing 
 Copyright 2025 Esri
