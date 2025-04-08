@@ -1,6 +1,6 @@
 # Share and Update SLPKs from Folders
 
-INTRO. WHAT DOES IT DOOOO?? Make sure know how different from Randy's. Using the [ArcPy script](Publish.py) in this folder, you can automate sharing 3D CAD and BIM data to ArcGIS Online.
+INTRO. ?????? Using the [ArcPy script](Publish.py) in this folder, you can automate sharing 3D CAD and BIM data to ArcGIS Online.
 
 ![Output-SLPK](https://github.com/user-attachments/assets/c8a8069a-de04-46d5-80c4-09b5563b3a7f)
 
