@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/e3d7dd4e-3421-42c0-9f89-2ae94f83c93a)
 
-Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. Below you will find a series of samples that automate common CAD/BIM workflows. This project's goal is to inspire you to develop your own customizations.
+Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. This project's goal is to inspire you to develop your own customizations. Below you will find a series of samples that automate common CAD/BIM workflows. 
 
 ## Samples
 - [Share and Update Building SLPK](Samples/Share%20and%20Update%20Building%20SLPK)
