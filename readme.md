@@ -8,7 +8,12 @@ Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. This project's g
 - [Share and Update Building SLPK](Samples/Share%20and%20Update%20Building%20SLPK)
 - [Share and Update SLPK from Layer](Samples/Share%20and%20Update%20SLPK%20from%20Layer)
 - [Share and Update SLPKs from Folders](Samples/Share%20and%20Update%20SLPKs%20from%20Folders) 
-- [Update ACC Files](Samples/Update%20ACC%20Files) 
+- [Update ACC Files](Samples/Update%20ACC%20Files)
+
+- Share and Update:
+- SLPKs from CAD and BIM File Folders
+- BSLPK from BIM File(s)
+- SLPK from Layer File
 
 ## Requirements
 - ArcGIS Pro version 3.4+
