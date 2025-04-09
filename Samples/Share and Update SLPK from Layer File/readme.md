@@ -8,7 +8,7 @@ This one is going to need the story with the train.
 
 
 ## Requirements
-Idk other data or what. Oh that you need a .lyrx. Link to how to do that in case user doesn't know how.
+- You need a .lyrx file ([how to download a .lyrx file](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/save-a-layer-file.htm#:~:text=Select%20the%20layer%20or%20table,file%20in%20the%20Contents%20pane.&text=On%20the%20Save%20Layer(s,Click%20Save.))
 
 ## How to use the sample.
 Use the ArcPy script (link it) in this folder. Optionally, download the sample layer file (file path) and drawing (filepath) in this folder to use with the script.
