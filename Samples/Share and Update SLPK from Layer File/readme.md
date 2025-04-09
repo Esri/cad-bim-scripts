@@ -1,9 +1,6 @@
 # Share and Update Scene Layer Package from Layer
 
-I think they wanted title to start with share
-
 Using the [ArcPy script](SceneLayers.py) in this folder, you can automate creating a scene layer package, sharing the scene layer, and replacing the existing scene layer with the updated version. 
-NOTE THAT DIFF FROM CICI and David somehow. 
 
 
 ## Use Case
