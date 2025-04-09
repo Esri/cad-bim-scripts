@@ -1,6 +1,6 @@
 # Share and Update SLPK from Layer File
 
-Automate sharing and updating a SLPK from a layer file.
+Automate sharing and updating a SLPK from a layer file to ArcGIS Online.
 
 ![image](https://github.com/user-attachments/assets/07cdb8e3-d0cf-4df4-8edd-3a505bf751ca)
 
