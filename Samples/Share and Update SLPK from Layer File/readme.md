@@ -2,7 +2,8 @@
 
 Automate sharing and updating a SLPK from a layer file.
 
-![image](https://github.com/user-attachments/assets/c7ba599d-b8f6-429f-9866-5207eecbbac2)
+![image](https://github.com/user-attachments/assets/07cdb8e3-d0cf-4df4-8edd-3a505bf751ca)
+
 
 ## Use Case
 A transportation digital twin in Zurich needs to be updated to reflect that a decommissioned railway track was demolished and removed. Keeping the engineering data current in the digital twin benefits many stakeholders. In Civil 3D, an engineer modifies the railway track engineering data, modeled as corridor objects. The sample script can be used to create functionality that updates the engineering data in the digital twin, so that web scenes that references the scene layer shows the updated railway track segment in the digital twin. 
