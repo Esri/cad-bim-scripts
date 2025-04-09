@@ -1,6 +1,6 @@
 # Share and Update SLPKs from File Folders
 
-INTRO SENTENCE. ?????? Automate sharing 3D CAD and BIM data to ArcGIS Online?
+INTRO SENTENCE. ?????? Automate sharing 3D Object SLPKs and Building SLPKs from file folders of 3D CAD and/or BIM data to ArcGIS Online?
 
 ![Output-SLPK](https://github.com/user-attachments/assets/c8a8069a-de04-46d5-80c4-09b5563b3a7f)
 
