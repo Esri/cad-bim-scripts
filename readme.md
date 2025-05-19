@@ -1,7 +1,6 @@
 # ArcGIS Pro CAD/BIM Sample Scripts
 
-![image](https://github.com/user-attachments/assets/9ffc54ce-8da0-430a-8b18-da8931f0cf72)
-
+![CadBIMRepoGraphic2](https://github.com/user-attachments/assets/5559fc0e-50be-47c1-a1a3-a0853986fa06)
 
 Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. This project's goal is to inspire you to develop your own customizations. Below you will find a series of samples that automate common CAD/BIM workflows. 
 
