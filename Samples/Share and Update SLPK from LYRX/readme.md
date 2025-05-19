@@ -5,7 +5,7 @@ Automate sharing and updating a SLPK from a layer file to ArcGIS Online.
 ![image](https://github.com/user-attachments/assets/cf92ca3d-3633-45c7-abc3-a8e71a1d2b7b)
 
 ## Use Case
-A transportation digital twin in Zurich needs to be updated to reflect that a decommissioned railway track was demolished and removed. Keeping the engineering data current in the digital twin benefits many stakeholders. In Civil 3D, engineers modify the railway track engineering data, modeled as corridor objects. The sample script can be used to update the engineering data in the digital twin, so web scenes that references the scene layer show the updated railway track segment in the digital twin. 
+A transportation digital twin in Zurich needs to be updated to reflect that a decommissioned railway track was demolished and removed. Keeping the engineering data current in the digital twin benefits many stakeholders. In Civil 3D, engineers modify the railway track engineering data, modeled as corridor objects. The sample script can be used to update the engineering data in the digital twin, so web scenes that reference the scene layer show the updated railway track segment in the digital twin. 
 
 
 ## Requirements
