@@ -9,7 +9,7 @@ Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. This project's g
 - [Update a Building Scene Layer](Samples/Update%20a%20Building%20Scene%20Layer)
 - [Update a Scene Layer from Civil 3D Using a Layer File](Samples/Update%20a%20Scene%20Layer%20from%20Civil%203D%20Using%20a%20Layer%20File)
 - [Update Scene Layers from a Folder of CAD and BIM](Samples/Update%20Scene%20Layers%20from%20a%20Folder%20of%20CAD%20and%20BIM) 
-- [Update ACC Files](Samples/Update%20ACC%20Files)
+- [Download Updated Content from Autodesk Construction Cloud](Samples/Download%20Updated%20Content%20from%20Autodesk%20Construction%20Cloud)
 
 ## Requirements
 - ArcGIS Pro version 3.4+
