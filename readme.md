@@ -7,7 +7,7 @@ Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. This project's g
 
 ## Samples
 - [Share and Update Building SLPK](Samples/Share%20and%20Update%20Building%20SLPK)
-- [Share and Update SLPK from LYRX](Samples/Share%20and%20Update%20SLPK%20from%20LYRX)
+- [Update a Scene Layer from Civil 3D Using a Layer File](Samples/Update%20a%20Scene%20Layer%20from%20Civil%203D%20Using%20a%20Layer%20File)
 - [Share and Update SLPKs from File Folders](Samples/Share%20and%20Update%20SLPKs%20from%20File%20Folders) 
 - [Update ACC Files](Samples/Update%20ACC%20Files)
 
