@@ -13,7 +13,7 @@
    See the License for the specific language governing permissions and
    limitations under the License.​
 
-This sample DOES WHAT???
+This sample replaces existing web scene layers for a collection of updated CAD and BIM files.
 """
 
 import os
