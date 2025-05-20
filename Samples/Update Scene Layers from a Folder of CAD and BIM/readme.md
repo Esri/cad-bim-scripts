@@ -1,6 +1,6 @@
 # Update Scene Layers from a Folder of CAD and BIM
 
-Create, share, and replace existing web scene layers for a collection of updated CAD and BIM files.
+Replace existing web scene layers for a collection of updated CAD and BIM files.
 
 ![Output-SLPK](https://github.com/user-attachments/assets/c8a8069a-de04-46d5-80c4-09b5563b3a7f)
 
