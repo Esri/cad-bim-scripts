@@ -82,7 +82,7 @@ def replace(slpk, target_layer, update_layer):
     archive_layer_name = slpk.split(".")[0] + time.strftime("%Y%m%d_%H%M%S")
     return arcpy.server.ReplaceWebLayer(target_layer,archive_layer_name, update_layer, "REPLACE", True)
 
-# Append BIM and CAD files to a list separably
+# Append BIM and CAD files to a list separately
 bim_files = [f for f in os.listdir(workspace) if f.endswith((".rvt", ".ifc"))]
 cad_files = [f for f in os.listdir(workspace) if f.endswith((".dwg", ".dgn"))]
 
