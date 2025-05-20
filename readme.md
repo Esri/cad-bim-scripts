@@ -19,8 +19,8 @@ Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. This project's g
 2. Adjust the code as needed.
 
 ## Resources
-- [BIM documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/revit/what-is-bim-data-.htm)
-- [CAD documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/cad/what-is-cad-data.htm)
+- [ArcGIS BIM documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/revit/what-is-bim-data-.htm)
+- [ArcGIS CAD documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/cad/what-is-cad-data.htm)
 - [ArcGIS API for Python](https://developers.arcgis.com/python/latest/)
 - [ArcGIS Pro ArcPy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm)
 - [ArcGIS For AutoCAD API Samples](https://github.com/Esri/ArcGIS-for-AutoCAD-API-Samples)
