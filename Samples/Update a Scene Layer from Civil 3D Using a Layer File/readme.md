@@ -1,6 +1,6 @@
 # Update a Scene Layer from Civil 3D Using a Layer File
 
-Automate sharing and updating a SLPK from a layer file to ArcGIS Online.
+Automate updating a scene layer from a layer file (.lyrx) to ArcGIS Online.
 
 ![image](https://github.com/user-attachments/assets/cf92ca3d-3633-45c7-abc3-a8e71a1d2b7b)
 
