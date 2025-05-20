@@ -1,4 +1,4 @@
-# Share and Update SLPKs from File Folders
+# Update Scene Layers from a Folder of CAD and BIM
 
 Create, share, and replace existing web scene layers for a collection of updated CAD and BIM files.
 
