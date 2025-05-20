@@ -1,4 +1,4 @@
-# Share and Update SLPK from Layer File
+# Update a Scene Layer from Civil 3D Using a Layer File
 
 Automate sharing and updating a SLPK from a layer file to ArcGIS Online.
 
