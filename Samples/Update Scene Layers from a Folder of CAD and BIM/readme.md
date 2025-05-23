@@ -8,8 +8,7 @@ Replace existing web scene layers for a collection of updated CAD and BIM files.
 GIS analysts working on a project where volumes of CAD and BIM files are regularly changing need to keep them up to date in a web scene. This sample lets you update the scene layers for the CAD and BIM files stored in a folder using ArcPy. 
  
 ## Requirements
-????
-- Maybe that you need folders of the CAD and/or BIM data
+- Folder that contains CAD and/or BIM files
 
 ## How to use the sample
 Read this blog for an overview of the script: [Automate CAD and BIM publishing using scene layer packages](https://www.esri.com/arcgis-blog/products/arcgis-pro/3d-gis/automate-cad-and-bim-publishing-using-scene-layer-packages). Download the [ArcPy script](Publish.py) and adjust the code as needed. 
