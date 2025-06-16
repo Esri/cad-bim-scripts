@@ -5,7 +5,7 @@ Replace existing web scene layers for a collection of updated CAD and BIM files.
 ![Output-SLPK](https://github.com/user-attachments/assets/c8a8069a-de04-46d5-80c4-09b5563b3a7f)
 
 ## Use case
-GIS analysts working on a project where volumes of CAD and BIM files are regularly changing need to keep them up to date in a web scene. This sample lets you update the scene layers for the CAD and BIM files stored in a folder using ArcPy. 
+GIS analysts working on a project where volumes of CAD and BIM files are regularly changing need to keep them up to date in a web scene. This ArcPy sample demonstrates updating scene layers from CAD and BIM files stored in a local folder.
  
 ## Requirements
 - Folder that contains CAD and/or BIM files
