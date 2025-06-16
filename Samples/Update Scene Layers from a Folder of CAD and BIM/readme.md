@@ -11,6 +11,6 @@ GIS analysts working on a project where volumes of CAD and BIM files are regular
 - Folder that contains CAD and/or BIM files
 
 ## How to use the sample
-Read this blog for an overview of the script: [Automate CAD and BIM publishing using scene layer packages](https://www.esri.com/arcgis-blog/products/arcgis-pro/3d-gis/automate-cad-and-bim-publishing-using-scene-layer-packages). Download the [ArcPy script](Publish.py) and adjust the code as needed. 
+For an overview of the script, check out this blog: [Automate CAD and BIM publishing using scene layer packages](https://www.esri.com/arcgis-blog/products/arcgis-pro/3d-gis/automate-cad-and-bim-publishing-using-scene-layer-packages). Download the [ArcPy script](Publish.py) and adjust the code as needed. 
 
 
