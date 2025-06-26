@@ -17,10 +17,12 @@ Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. This project's g
 - Each sample may have additional requirements. 
 
 ## Instructions
+For each sample, you will do the following: 
 1. Download your desired sample. 
 2. Adjust the code as needed.
 
 ## Resources
+See the following resources to learn more:
 - [ArcGIS BIM documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/revit/what-is-bim-data-.htm)
 - [ArcGIS CAD documentation](https://pro.arcgis.com/en/pro-app/latest/help/data/cad/what-is-cad-data.htm)
 - [ArcGIS API for Python](https://developers.arcgis.com/python/latest/)
@@ -29,9 +31,9 @@ Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. This project's g
 
 
 ## Issues
-Find a bug or want to request a new sample? Please let us know by submitting an issue. 
+If you find a bug or want to request a new sample, you can submit an issue. 
 
-The samples are provided as is and there is no official support.
+The samples are provided as-is, and there is no official support.
 
 ## Contributing
 Esri welcomes contributions to our open source projects on GitHub. Please see our [guidelines for contributing](https://github.com/esri/contributing). 
