@@ -13,6 +13,7 @@ Welcome to the collection of samples for CAD/BIM in ArcGIS Pro. This project's g
 - [Update Scene Layers from a Folder of CAD and BIM](Samples/Update%20Scene%20Layers%20from%20a%20Folder%20of%20CAD%20and%20BIM) 
 
 ## Requirements
+To use this collection, you must have:
 - ArcGIS Pro version 3.4 or later.
 - Each sample may have additional requirements. 
 
