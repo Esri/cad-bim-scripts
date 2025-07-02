@@ -3,7 +3,7 @@
   <img src= "https://github.com/user-attachments/assets/5559fc0e-50be-47c1-a1a3-a0853986fa06"
 </p>
   
-Welcome to our collection of samples for CAD/BIM in ArcGIS Pro. This project's goal is to inspire you to develop your own customizations. Below you will find a series of samples that automate common CAD/BIM workflows. 
+Welcome to the collection of samples for CAD/BIM in ArcGIS Pro. This project's goal is to inspire you to develop your own customizations. Below you will find a series of samples that automate common CAD/BIM workflows. 
 
 ## Samples
 - [Download Updated Content from Autodesk Construction Cloud](Samples/Download%20Updated%20Content%20from%20Autodesk%20Construction%20Cloud)
@@ -36,13 +36,9 @@ If you find a bug or want to request a new sample, you can submit an issue.
 The samples are provided as-is, and there is no official support.
 
 ## Contributing
-Esri welcomes contributions to our open source projects on GitHub. Please see our [guidelines for contributing](https://github.com/esri/contributing). 
+To contribute to Esri open source projects on GitHub, see the [guidelines for contributing](https://github.com/esri/contributing). 
 
-We encourage you to submit issues for:
-- Enhancement requests for new samples.
-- Bugs you find while using the samples.
-
-We do not currently accept new PRs for full features (e.g. a new sample or a significant change to the samples).
+New pull requests for full features (for example, a new sample or a significant change to the samples) are not accepted.
 
 ## Licensing 
 Copyright 2025 Esri
