@@ -32,14 +32,12 @@ See the following resources to learn more:
 
 
 ## Issues
-If you find a bug or want to request a new sample, you can submit an issue. 
+Find a bug or want to request a new feature?  Please let us know by submitting an issue.
 
 The samples are provided as-is, and there is no official support.
 
 ## Contributing
-To contribute to Esri open source projects on GitHub, see the [guidelines for contributing](https://github.com/esri/contributing). 
-
-New pull requests for full features (for example, a new sample or a significant change to the samples) are not accepted.
+Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 ## Licensing 
 Copyright 2025 Esri
