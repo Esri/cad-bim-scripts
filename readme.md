@@ -30,7 +30,6 @@ See the following resources to learn more:
 - [ArcGIS Pro ArcPy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm)
 - [ArcGIS For AutoCAD API Samples](https://github.com/Esri/ArcGIS-for-AutoCAD-API-Samples)
 
-
 ## Issues
 Find a bug or want to request a new feature?  Please let us know by submitting an issue.
 
