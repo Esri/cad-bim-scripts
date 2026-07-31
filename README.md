@@ -6,7 +6,7 @@
 Welcome to the collection of samples for CAD/BIM in ArcGIS Pro. This project's goal is to inspire you to develop your own customizations. Below you will find a series of samples that automate common CAD/BIM workflows. 
 
 ## Samples
-- [Download Updated Content from Autodesk Construction Cloud](Samples/Download%20Updated%20Content%20from%20Autodesk%20Construction%20Cloud)
+- [Download Updated Content from Autodesk Forma](Samples/Download%20Updated%20Content%20from%20Autodesk%20Forma)
 - [Improve Exterior Shell of Building Scene Layer](Samples/Improve%20Exterior%20Shell%20of%20Building%20Scene%20Layer)
 - [Update a Building Scene Layer](Samples/Update%20a%20Building%20Scene%20Layer)
 - [Update a Scene Layer from Civil 3D Using a Layer File](Samples/Update%20a%20Scene%20Layer%20from%20Civil%203D%20Using%20a%20Layer%20File)
