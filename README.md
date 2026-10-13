@@ -6,6 +6,7 @@
 Welcome to the collection of samples for CAD/BIM in ArcGIS Pro. This project's goal is to inspire you to develop your own customizations. Below you will find a series of samples that automate common CAD/BIM workflows. 
 
 ## Samples
+- [Combine BIM Models into a Single Feature Dataset](Samples/Combine%20BIM%20Models%20into%20a%20Single%20Feature%20Dataset)
 - [Download Updated Content from Autodesk Forma](Samples/Download%20Updated%20Content%20from%20Autodesk%20Forma)
 - [Improve Exterior Shell of Building Scene Layer](Samples/Improve%20Exterior%20Shell%20of%20Building%20Scene%20Layer)
 - [Recategorize BIM Features](Samples/Recategorize%20BIM%20Features)
